@@ -1,7 +1,6 @@
-# **85**
+# TAKIM İSMİ
 
-Takım X
-
+85
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
