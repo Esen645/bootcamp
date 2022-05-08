@@ -60,12 +60,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Toplantıların discord üzerinden yapılmasına karar verildi. Uygulamanın içeriği ve tasarımı hakkında kararlar alındı. Uygulamanın renk kodlaarı ve logo tasarımı tasarlanıp seçildi. Uygulamanın giriş sayfasının tasarımı yapıldı.
+Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içindeki görev dağılımına karar verildi.
+  - Toplantı günlerinin ve saatlerinin belirlenip, proje detayları hakkında araştırmaların yapılması.
+  - Uygulamayı geliştirebilecek konular hakkında araştırmaların yapılması. 
 
 -**Diğer Notlar**:
 - N/A
