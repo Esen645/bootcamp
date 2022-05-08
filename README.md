@@ -49,7 +49,7 @@ Todo List App
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![bootcamp](https://user-images.githubusercontent.com/77446517/167308371-158d784a-14de-4738-862f-84421a6927d3.jpg)
