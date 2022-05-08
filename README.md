@@ -68,9 +68,6 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
   - Toplantı günlerinin ve saatlerinin belirlenip, proje detayları hakkında araştırmaların yapılması.
   - Uygulamayı geliştirebilecek konular hakkında araştırmaların yapılması. 
 
--**Diğer Notlar**:
-- N/A
-
 
 # Sprint 2
 
