@@ -50,7 +50,7 @@ Todo List App
 
 - **Sprint board update**: Sprint board screenshotları: 
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
-![bootcamp](https://user-images.githubusercontent.com/77446517/167308371-158d784a-14de-4738-862f-84421a6927d3.jpg)
+- ![bootcamp (1)](https://user-images.githubusercontent.com/77446517/167423022-a5fe815c-bb24-401e-affd-46b6343b91a7.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - ![todo](https://user-images.githubusercontent.com/100069525/167313202-dc23e18f-4a34-4700-ada0-4c7605404caf.PNG)
