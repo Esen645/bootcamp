@@ -49,6 +49,7 @@ Todo List App
 - **Daily Scrum**: Daily Scrum toplantılarının ilke zoom üzerinden gerkeleştikten sonra dört kişinin uygunluk saatlerinin sağlanmaması nedeni ile discord üzerinden sürecin yürütülmesine karar verildi ve haftada 2 kez yüzyüze ve her gün mesajla durum güncellemesi yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
 
 - **Sprint board update**: Sprint board screenshotları: 
+- https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
 ![bootcamp](https://user-images.githubusercontent.com/77446517/167308371-158d784a-14de-4738-862f-84421a6927d3.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
