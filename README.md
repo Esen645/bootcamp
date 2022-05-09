@@ -41,13 +41,11 @@ Todo List App
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken 100 puanlık bir görev dağılımı vardır(miroda yer alan her görev için verilmiş). 3 sprintte bu yapılacak iş bölündüüğnde ilk sprintte 2 göre, 2. sprintte 3 görev ve son sprintte 2 görev yapılmasına karar verilmiştir.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz da uygulamanın gerekliliklerine göre uygulamaya eklenmesi gereken görevler ve bu görevlere uygun olarak uygumaya eklnemesi gereken özellikler yer verilmiştir. Her bir task içinde küçük storylerden oluşmuş paketler haline getirilmiştir. Miro Board'da gözüken baclog içinde yer alan taskler ilerde yapılacak taskleri belirtmektedir. Done içinde yer alan taskler bu sprintte biten görevleri göstermektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
 
