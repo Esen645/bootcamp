@@ -39,8 +39,7 @@ Todo List App
 
  Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-
+- **Sprint Notları**: Uygulama içinde yapıalcak görevler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında içinde her bir görev içinde yapılması gereken konu ile ilgili görevler yazılmıştır. Bu backlog içinde yer alan görevlerden ilk ikisi sıra ile in progress bölümüne alınmıştır ve sprint sonunda tamamlanarak Done bülümüne geçirilmiştir.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 40 puan
 
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken 100 puanlık bir görev dağılımı vardır(miroda yer alan her görev için verilmiş). 3 sprintte bu yapılacak iş bölündüüğnde ilk sprintte 2 göre, 2. sprintte 3 görev ve son sprintte 2 görev yapılmasına karar verilmiştir.
@@ -69,9 +68,8 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
   - Uygulamayı geliştirebilecek konular hakkında araştırmaların yapılması. 
   - Süreçte herkese uygun saatlerin lm,belirlenememesi, bayram tatili ve yapılabilecek projenin kesin olmaması durumları yüzünden zamanlama sıkıntısı yaşanmıştır. Bundan sonraki sprintlerde daha sık şekilde kod yazılıp paylaşılması gerekliliğine karar verilmiştir.
 - **Sprint Notlar:**
-- Süreçte proje belirleme süreçleri 2 haftalık ilk 4 günün proje belirlenmesine harcanmış oldu. Bunun bir daha yaşanmaması için günlük görevlerin atanması gerekiyor
--Renk skalası ve logo belirlendi.
-Giriş ekranı düzeni belirlendi.
+ -Süreçte proje belirleme süreçleri 2 haftalık ilk 4 günün proje belirlenmesine harcanmış oldu. Bunun bir daha yaşanmaması için günlük görevlerin atanması gerekiyor.
+ - Giriş ekranı düzeni belirlendi.
 
 
 # Sprint 2
