@@ -47,7 +47,7 @@ Todo List App
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz da uygulamanın gerekliliklerine göre uygulamaya eklenmesi gereken görevler ve bu görevlere uygun olarak uygumaya eklnemesi gereken özellikler yer verilmiştir. Her bir task içinde küçük storylerden oluşmuş paketler haline getirilmiştir. Miro Board'da gözüken baclog içinde yer alan taskler ilerde yapılacak taskleri belirtmektedir. Done içinde yer alan taskler bu sprintte biten görevleri göstermektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
+- **Daily Scrum**: Daily Scrum toplantılarının ilke zoom üzerinden gerkeleştikten sonra dört kişinin uygunluk saatlerinin sağlanmaması nedeni ile discord üzerinden sürecin yürütülmesine karar verildi ve haftada 2 kez yüzyüze ve her gün mesajla durum güncellemesi yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![bootcamp](https://user-images.githubusercontent.com/77446517/167308371-158d784a-14de-4738-862f-84421a6927d3.jpg)
