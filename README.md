@@ -63,7 +63,7 @@ Toplantıların discord üzerinden yapılmasına karar verildi. Uygulamanın iç
 Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımına karar verildi.
+  - Takım içindeki görev dağılımına karar verildi
   - Toplantı günlerinin ve saatlerinin belirlenip, proje detayları hakkında araştırmaların yapılması.
   - Uygulamayı geliştirebilecek konular hakkında araştırmaların yapılması. 
   - Süreçte herkese uygun saatlerin lm,belirlenememesi, bayram tatili ve yapılabilecek projenin kesin olmaması durumları yüzünden zamanlama sıkıntısı yaşanmıştır. Bundan sonraki sprintlerde daha sık şekilde kod yazılıp paylaşılması gerekliliğine karar verilmiştir.
