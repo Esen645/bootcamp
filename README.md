@@ -67,6 +67,11 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
   - Takım içindeki görev dağılımına karar verildi.
   - Toplantı günlerinin ve saatlerinin belirlenip, proje detayları hakkında araştırmaların yapılması.
   - Uygulamayı geliştirebilecek konular hakkında araştırmaların yapılması. 
+  - Süreçte herkese uygun saatlerin lm,belirlenememesi, bayram tatili ve yapılabilecek projenin kesin olmaması durumları yüzünden zamanlama sıkıntısı yaşanmıştır. Bundan sonraki sprintlerde daha sık şekilde kod yazılıp paylaşılması gerekliliğine karar verilmiştir.
+- **Sprint Notlar:**
+- Süreçte proje belirleme süreçleri 2 haftalık ilk 4 günün proje belirlenmesine harcanmış oldu. Bunun bir daha yaşanmaması için günlük görevlerin atanması gerekiyor
+-Renk skalası ve logo belirlendi.
+Giriş ekranı düzeni belirlendi.
 
 
 # Sprint 2
