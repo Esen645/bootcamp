@@ -88,7 +88,7 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 - **Sprint board update**: Sprint board screenshotları: 
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
 
-- ![bootcamp (3)](https://user-images.githubusercontent.com/77446517/167918072-ee575ddb-64be-427b-895d-5e35470efc8e.jpg)
+![bootcamp (4)](https://user-images.githubusercontent.com/77446517/167933451-34c389e3-7cd7-420a-9d65-2c3e95a1de2f.jpg)
 
 
 
