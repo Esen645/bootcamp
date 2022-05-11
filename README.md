@@ -50,8 +50,7 @@ Todo List App
 
 - **Sprint board update**: Sprint board screenshotları: 
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
-![bootcamp (1)](https://user-images.githubusercontent.com/77446517/167423399-a3fac233-2265-466c-bd78-d1fc7491da14.jpg)
-
+- ![bootcamp (1)](https://user-images.githubusercontent.com/77446517/167423022-a5fe815c-bb24-401e-affd-46b6343b91a7.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - ![todo](https://user-images.githubusercontent.com/100069525/167313202-dc23e18f-4a34-4700-ada0-4c7605404caf.PNG)
@@ -76,9 +75,33 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 
 # Sprint 2
 
+ Sprint 2
 
----
+- **Sprint Notları**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 puan
 
+- **Puan tamamlama mantığı**: 
+
+- **Backlog düzeni ve Story seçimleri**: 
+- **Daily Scrum**: Daily Scrum toplantılarının ilke zoom üzerinden gerkeleştikten sonra dört kişinin uygunluk saatlerinin sağlanmaması nedeni ile discord üzerinden sürecin yürütülmesine karar verildi ve haftada 2 kez yüzyüze ve her gün mesajla durum güncellemesi yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1308dOkYDRNM9K6uVg7UtQTSsEfMonlxB/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
+
+- **Sprint board update**: Sprint board screenshotları: 
+- https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
+
+- ![bootcamp (2)](https://user-images.githubusercontent.com/77446517/167829725-8c8193e8-9ddb-4be5-897a-84836ff80c2c.jpg)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+- **Sprint Review**: 
+
+Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
+
+- **Sprint Retrospective:**
+  
+- **Sprint Notlar:**
+ 
 # Sprint 3
 
 ---
