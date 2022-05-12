@@ -93,6 +93,8 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- ![Ekran Görüntüsü (583)](https://user-images.githubusercontent.com/77446517/168119104-e4fdfffb-6314-434f-be5c-46858d54b537.png)
+
 
 
 - **Sprint Review**: 
