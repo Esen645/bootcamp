@@ -87,14 +87,16 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet
 
 - **Sprint board update**: Sprint board screenshotları: 
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
+![bootcamp (7)](https://user-images.githubusercontent.com/77446517/169016914-e4f50a84-aca1-477c-b148-694cf70ebc21.jpg)
+![bootcamp (8)](https://user-images.githubusercontent.com/77446517/169016941-818c6a17-ff4a-4020-88a5-a1e5e4cd2bc1.jpg)
 
-![bootcamp (4)](https://user-images.githubusercontent.com/77446517/167933451-34c389e3-7cd7-420a-9d65-2c3e95a1de2f.jpg)
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![Ekran Görüntüsü (583)](https://user-images.githubusercontent.com/77446517/168119104-e4fdfffb-6314-434f-be5c-46858d54b537.png)
-
+![Ekran Görüntüsü (583)](https://user-images.githubusercontent.com/77446517/168119326-5cf935b4-2077-480c-835f-97c80a157a06.png)
+![Ekran Görüntüsü (605)](https://user-images.githubusercontent.com/77446517/169017175-53844569-cfcd-4a74-be08-e92081893b72.png)
+![Ekran Görüntüsü (604)](https://user-images.githubusercontent.com/77446517/169017205-1eb83f1c-da37-447b-9799-70b344396d9b.png)
 
 
 - **Sprint Review**: 
