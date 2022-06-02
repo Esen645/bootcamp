@@ -160,6 +160,8 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet. Sprint2'de plan
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
 ![bootcamp (9)](https://user-images.githubusercontent.com/77446517/170468883-a4281f29-f447-40b7-a35b-6749ed8ac3b4.jpg)
 ![bootcamp (10)](https://user-images.githubusercontent.com/77446517/170468852-e5ed2a21-af72-4363-85ce-27f06f22dcf1.jpg)
+![bootcamp (11)](https://user-images.githubusercontent.com/77446517/171654831-0a5b1a8f-269a-4451-a186-7c021a70092f.jpg)
+
 
 
 
@@ -172,6 +174,9 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet. Sprint2'de plan
 ![Ekran Görüntüsü (621)](https://user-images.githubusercontent.com/77446517/170468620-968df63d-7206-473c-9d9f-5a80b2eb640e.png)
 ![Ekran Görüntüsü (619)](https://user-images.githubusercontent.com/77446517/170468672-8c087af0-ee28-4e28-b62c-703b22deabd9.png)
 ![Ekran Görüntüsü (629)](https://user-images.githubusercontent.com/77446517/170468773-8c7b2da8-04ae-42c8-9417-87893e195a29.png)
+![Ekran Görüntüsü (631)](https://user-images.githubusercontent.com/77446517/171655059-2c4061c4-388b-4f02-95a8-b1abf5865123.png)
+![Ekran Görüntüsü (630)](https://user-images.githubusercontent.com/77446517/171655159-0337a0cd-ee2c-481c-812a-5896dead4e5a.png)
+
 
 - **Sprint Review**: 
  
