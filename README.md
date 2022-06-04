@@ -148,13 +148,15 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet. Sprint2'de plan
 # Sprint 3
  Sprint 3
 
-- **Sprint Notları**: 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 40 puan
+- **Sprint Notları**: Uygulamada Firebase kullanılması, veri depolanması, google hesabıyla uygulamaya giriş yapılması, profil resminin oluşturulması. Oluşurulan profil resminin firebase'de depolanması görevleri tamamlanmıştır. Sprint3'te planlanan tğm görevler tamamlanmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 20 puan
 
-- **Puan tamamlama mantığı**: 
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gerekilen 100 puanlık görev dağılımı vardır. 3. sprintte 20 puanlık görev dağılımı tamamlanmıştır. 20 puanlık 2 farklı görevden oluşmaktadır.
 
-- **Backlog düzeni ve Story seçimleri**: 
-- **Daily Scrum**: 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz da uygulamanın gerekliliklerine göre uygulamaya eklenmesi gereken görevler ve bu görevlere uygun olarak uygumaya eklnemesi gereken özellikler yer verilmiştir. Her bir task içinde küçük storylerden oluşmuş paketler haline getirilmiştir. Miro Board'da gözüken baclog içinde yer alan taskler ilerde yapılacak taskleri belirtmektedir. Done içinde yer alan taskler bu sprintte biten görevleri göstermektedir. 
+- User Story:
+Kullanıcılar todo liste google mail hesapları ile giriş yapabilmelidir. Todo liste her girildiğinde sign in iconu karşısına çıkmaması gerekir. Bir kere giriş yaptıktan sonra çıkış yapana kadar hesap hep açık kalması kullanım için kolaylık sağlar.Kullanıcı todo liste girdikten sonra bir kendi için uygulamayı özelleştirmek ister bu nedenle de sisteme girdikten sonra istediğinde resmin çekip koyma seçeneği olmalı.
+- **Daily Scrum**:Daily Scrum toplantılarının ilke zoom üzerinden gerkeleştikten sonra dört kişinin uygunluk saatlerinin sağlanmaması nedeni ile discord üzerinden sürecin yürütülmesine karar verildi ve haftada 2 kez yüzyüze ve her gün mesajla durum güncellemesi yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/14a5q5-KTjxOtv25K3QHWkhZSQ8jfIS-g/edit?usp=sharing&ouid=109086929804635603569&rtpof=true&sd=true
 
 - **Sprint board update**: Sprint board screenshotları: 
 - https://miro.com/welcomeonboard/ZDVUM21tVE5CWUxYMERrNmppSk1MSUhxUkd2Rk5ya3UzblZBWGxZVG5yVktSYjZxdjlOcUJRSHpKcWw3dUo0Q3wzMDc0NDU3MzYyNjc1OTU3NDI0?share_link_id=800045501690
@@ -179,8 +181,9 @@ Sprint Review katılımcıları: Behlül, Beliz, Betül, Mehmet. Sprint2'de plan
 
 
 - **Sprint Review**: 
- 
+ Katılımcılar: Beliz, Betül, Mehmet, Behlül. Sprint3'te planlandığı gibi 2 toplantı gerçekleştirilmiştir. Uygulamadaki Firebase ile ilgili planlanan bütün görevler başarıyla tamamlandı. Tasarlanan to do list app'i için tahmin edilen 100 puanlık görevlerin tamamı planlanlanan süre içerisinde tamamnlandı.
 
 - **Sprint Retrospective:**
-
+Bütün userstoryler belirlenen süre içerisinde bitirldi. Bu çalışma sonucunda planan grup çalışmları içinj grupta yer alan kişilere daha net görevlerin tanımlanması gerektiği sonucuna varıldı.
 - **Sprint Notlar:**
+Tüm görevler başarıyla tamamlandı. Uygulanın videosu youtube'a yüklendi.
